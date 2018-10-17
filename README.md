@@ -1,4 +1,4 @@
-
+Nice to switch this off
 Change this for exercise an example project for the Git Lesson of EMBL Software Carpentry
 =======
 An example project for the Git Lesson of EMBL Software Carpentry CHANGED SOMETHING ELSE
