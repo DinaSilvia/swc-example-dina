@@ -1,5 +1,5 @@
 # swc-example-dina
-An example project for the Git Lesson of EMBL Software Carpentry
+An example project for the Git Lesson of EMBL Software Carpentry CHANGED SOMETHING ELSE
 
 Quick Markdown Overview
 
